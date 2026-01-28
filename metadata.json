@@ -1,0 +1,7 @@
+{
+  "name": "Priority-Next ERP",
+  "description": "A high-performance, modern ERP system inspired by Priority, featuring inventory management, sales tracking, and AI-driven business insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
